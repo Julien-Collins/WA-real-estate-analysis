@@ -1,5 +1,10 @@
 # WA Real Estate Analysis
 
+## Project Walkthrough Video
+👉 [Watch the full walkthrough](https://drive.google.com/file/d/16soLqfzNbcLvcAjJr0xC6v-7zz1dsIlw/view?usp=drive_link)
+
+This video walks through the full analysis, including data preparation, modeling, and key findings.
+
 ## Overview
 I built this project to better understand how housing market conditions in Washington State actually impact outcomes like how fast homes sell and how strong pricing is.
 
